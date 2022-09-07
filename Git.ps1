@@ -1,0 +1,1 @@
+git ls-files --stage -- C:\Users\aclawson\OneDrive - Gray\Documents\PowerShell Vscode\Git.ps1
